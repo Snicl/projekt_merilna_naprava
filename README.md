@@ -21,18 +21,18 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 <br />
 
 ## Kosovnica
-| Število kosov | Komponent         |                                         
-|:-------------:|-------------------|   
-|       1       | Arduino MEGA 2560 |                    
-|       1       | Tipkovnica 4x4    |
-|       1       | LCD               | 
-|       1       | Zelena LED        | 
-|       1       | Rdeča LED         |
-|       1       | Stikalo           |
-|       1       | Breadboard        |
-|       1       | Upor 1000E        |
-|       3       | Upor 220E         |
-|       1       | Potenciometer 10k |
+| Število kosov | Komponent             |                                         
+|:-------------:|-----------------------|   
+|       1       | 1.3 inch OLED display |                    
+|       1       | BMP 180               |
+|       1       | Sončna celica         | 
+|       1       | Arduino NANO          | 
+|       1       | DHT11                 |
+|       1       | Stikalo               |
+|       1       |                       |
+|       1       |                       |
+|       3       |                       |
+|       1       |                       |
 
 <br />
 
