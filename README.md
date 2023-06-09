@@ -3,17 +3,17 @@
 ## Navodila
 S pomočjo Arduina in ustreznih senzorjev ter vezja skonstruirajte samostojno napravo za merjenje in prikaz izbrane fizikalne veličine:
 
-a) Temperatura in vlago(v °C in %)
-b) Sila (v N)
-c) Tlak v tekočini (v Bar),
-d) Vlažnost zemlje/zraka (v %),
-e) Osvetljenost/svetilnost (v Lux),
-f) Jakost mag. polja (B, H),
-g) Detekcijo kovine/snovi (da/ne),
-h) Hitrost/smer vetra (km/h, m/s, vozlov),
-i) Razdalja (cm),
-j) Pospeška (g, 2g, 4g, 8g),
-k) Kota (v °).
+a) Temperatura in vlago(v °C in %) <br>
+b) Sila (v N) <br>
+c) Tlak v tekočini (v Bar), <br>
+d) Vlažnost zemlje/zraka (v %), <br>
+e) Osvetljenost/svetilnost (v Lux), <br>
+f) Jakost mag. polja (B, H), <br>
+g) Detekcijo kovine/snovi (da/ne), <br>
+h) Hitrost/smer vetra (km/h, m/s, vozlov), <br>
+i) Razdalja (cm), <br>
+j) Pospeška (g, 2g, 4g, 8g), <br>
+k) Kota (v °). <br>
 l) drugo ...
 
 Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v realnem času in imeti usterzne enote. 
