@@ -1,1 +1,1 @@
-# projekt_merilna_naprava
+# Merilna naprava
