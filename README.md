@@ -45,7 +45,7 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 
 ## Vezalna shema
 
-![shema]()
+![shema](https://github.com/Snicl/projekt_merilna_naprava/assets/123487347/0b2cd8a7-22b3-4638-853b-544ebca75043)
  
 <br />
 
