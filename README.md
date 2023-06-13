@@ -57,7 +57,8 @@ https://github.com/Snicl/projekt_merilna_naprava/assets/123487347/74537665-8dd4-
 
 ## Komentar
 Vremenska postaja deluje brezhibno. Temperaturo in zračni tlak meriva s senzorjem BMP180, vlažnost z DHT11, napetost na sončni celici pa direktno preko analognega vhoda. Za izpis vrednosti pa sva uporabila 1,3'' OLED zaslon. Postajo napajava z litij-ionsko baterijo in sončno celico.
-Meritve so točne in v mejah napake. Med baterijo in arduinom (Nano) sva vezala stikalo, da lahko ročno izklopimo celotno postajo. Da sončna celica nebi prenapolnila baterije, sva zaporedno med sončno celico in baterijo vezala stikalo, ki mora biti izključeno, ko vremenska postaja ni v upora. Prav tako sva med sončno celico in baterijo vezala diodo, ki prepreči, da bi se baterija praznila skozi  sončno celico. Ta problem bi lahko rešila tudi s tranzistorjem.
+Meritve so točne in v mejah napake. V programski kodi sva morala kalibrirati le meritev zračnega tlaka.
+Med baterijo in arduinom (Nano) sva vezala stikalo, da lahko ročno izklopimo celotno postajo. Da sončna celica nebi prenapolnila baterije, sva zaporedno med sončno celico in baterijo vezala stikalo, ki mora biti izključeno, ko vremenska postaja ni v upora. Prav tako sva med sončno celico in baterijo vezala diodo, ki prepreči, da bi se baterija praznila skozi  sončno celico. Ta problem bi lahko rešila tudi s tranzistorjem.
 
 
 
