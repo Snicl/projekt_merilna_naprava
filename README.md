@@ -36,7 +36,7 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 <br />
 
 ## Opis izdelka
-Vremenska postaja, ki v živo meri:
+Vremenska postaja, ki v živo meri:<br>
 •	Temperaturo,<br>
 •	Vlažnost,<br>
 •	Zračni tlak in <br>
