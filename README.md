@@ -46,4 +46,14 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 ## Vezalna shema
 
  
+<br />
+
+## Videoposnetek
+
+
+<br />
+
+## Komentar
+
+
 
