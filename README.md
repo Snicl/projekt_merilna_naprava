@@ -35,12 +35,14 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 |       1       |                       |
 
 <br />
+
 ## Opis izdelka
 
 
 
 
 <br />
+
 ## Vezalna shema
 
  
