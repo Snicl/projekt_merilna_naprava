@@ -51,6 +51,10 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 ## Videoposnetek
 
 
+
+https://github.com/Snicl/projekt_merilna_naprava/assets/123487347/74537665-8dd4-4dcc-af0f-e70a80b8e087
+
+
 <br />
 
 ## Komentar
