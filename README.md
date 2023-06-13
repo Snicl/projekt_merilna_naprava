@@ -29,13 +29,18 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 |       1       | Arduino NANO          | 
 |       1       | DHT11                 |
 |       2       | Stikalo               |
-|       1       | Upor 220E             |
 |       1       | Zener dioda           |
+|       1       |        |
 |       3       |                       |
 |       1       |                       |
 
 <br />
+## Opis izdelka
 
+
+
+
+<br />
 ## Vezalna shema
 
  
