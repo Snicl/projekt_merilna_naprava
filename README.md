@@ -28,9 +28,9 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 |       1       | Sončna celica         | 
 |       1       | Arduino NANO          | 
 |       1       | DHT11                 |
-|       1       | Stikalo               |
-|       1       |                       |
-|       1       |                       |
+|       2       | Stikalo               |
+|       1       | Upor 220E             |
+|       1       | Zener dioda           |
 |       3       |                       |
 |       1       |                       |
 
