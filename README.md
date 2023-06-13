@@ -37,10 +37,10 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 
 ## Opis izdelka
 Vremenska postaja, ki v živo meri:
-•	Temperaturo,
-•	Vlažnost,
-•	Zračni tlak in
-•	Napetost, katero proizvaja sončna celica.
+•	Temperaturo,<br>
+•	Vlažnost,<br>
+•	Zračni tlak in <br>
+•	Napetost, katero proizvaja sončna celica.<br>
 Napaja jo litij-ionska baterija, katero prav tako polni sončna celica. Če je vremenska postaja izpostavljena soncu, je proizvedena napetost celice dovolj visoka, da napaja celotno vezje. 
 
 <br />
