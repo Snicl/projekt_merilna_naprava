@@ -23,14 +23,14 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 ## Kosovnica
 | Število kosov | Komponent               |                                         
 |:-------------:|-------------------------|   
-|       1       | 1,3'' inch OLED display |                    
+|       1       | 1,3'' inch OLED zaslon |                    
 |       1       | BMP 180                 |
 |       1       | Sončna celica           | 
 |       1       | Arduino NANO            | 
 |       1       | DHT11                   |
 |       2       | Stikalo                 |
 |       1       | Zener dioda BA159       |
-|       1       | Lithium Ion Battery     |
+|       1       | Litij-ionska Baterija   |
 
 
 <br />
