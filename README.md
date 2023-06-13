@@ -29,8 +29,8 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 |       1       | Arduino NANO          | 
 |       1       | DHT11                 |
 |       2       | Stikalo               |
-|       1       | Zener dioda           |
-|       1       |        |
+|       1       | Zener dioda BA159     |
+|       1       | Lithion Ion           |
 |       3       |                       |
 |       1       |                       |
 
